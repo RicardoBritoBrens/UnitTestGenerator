@@ -9,14 +9,14 @@ using System.Text;
  */
 
 // Default namespace
-string defaultNamespace = "AV.Web.ViewModels.Api";
+string defaultNamespace = "PegasusLbtr.Test.Core.Models";
 
 // Usings
 string[] usings = new string[]
 {
     "Xunit",
     "System",
-    defaultNamespace,
+    "PegasusLbtr.Core.Models",
 };
 
 // Class names
